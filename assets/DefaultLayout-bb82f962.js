@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as r,c as a}from"./index-7556af46.js";const n={name:"DefaultLayout"};function c(s,_,p,u,f,i){const e=t("router-view");return r(),a(e)}const m=o(n,[["render",c]]);export{m as default};

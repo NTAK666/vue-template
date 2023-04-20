@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as c}from"./index-7556af46.js";const s={};function a(o,r){return t(),c("p",null,"This is a simple Vue App Quickstart Template.")}const p=e(s,[["render",a]]);export{p as default};

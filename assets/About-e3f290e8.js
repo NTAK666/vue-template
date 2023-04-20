@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as r,e as n,b as o}from"./index-7556af46.js";const a={},s=o("a",{href:"https://nguyentruonganhkiet.work",target:"_blank",rel:"noreferrer",class:"font-semibold text-blue-500"}," Nguyen Truong Anh Kiet ",-1);function c(_,l){return t(),r("p",null,[n(" Created by "),s])}const f=e(a,[["render",c]]);export{f as default};
